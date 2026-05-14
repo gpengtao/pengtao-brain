@@ -13,3 +13,5 @@
    - **Tasks** — 任务管理
    - **Mind Map** — 思维导图视图
    - **Terminal** — 内置终端
+
+在线阅读：https://gpengtao.github.io/pengtao-brain/
